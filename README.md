@@ -31,7 +31,7 @@ The system returns the top 10 results for each method, measuring the percentage 
 ### Search by Color Result
 
 **Image Query:**
-![Image Query](images/SearchByColorQuery.png)
+<img src="images/SearchByColorQuery.png" width="200" alt="Image Query">
 
 **Result:**
 ![Search by Color](images/SearchByColor.png)
