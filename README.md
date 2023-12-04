@@ -3,11 +3,12 @@
 Welcome to the Content-Based Image Retrieval (CBIR) system repository! This project is designed to extract features from query images and retrieve similar ones from an image database.
 
 ## Introduction
+---
 ![CBIR Interface](images/userinterface.png)
 In the field of computer vision, CBIR is a powerful technique that allows users to search for images based on their content rather than relying on metadata. This repository implements various image features for an effective CBIR system.
 
 ## Part 1: Feature Extraction
-
+---
 The system incorporates several popular image features categorized into color-based, shape-based, and texture-based features.
 
 ### Color-Based Features
@@ -25,7 +26,7 @@ The system incorporates several popular image features categorized into color-ba
 
 
 ## Part 2: Image Retrieval
-
+---
 The system returns the top 10 results for each method, measuring the percentage of similarity and calculating the distance. Here are some results of the system:
 
 ### Search by Color Result
@@ -72,13 +73,14 @@ Feel free to explore and experiment with different query images and parameters f
 If you have any questions or suggestions, please don't hesitate to open an issue or contribute to the project. Happy coding!
 
 
-
-
 ## Getting Started
-
+---
 To use the CBIR system, follow these steps:
 
 1. Clone the repository:
    ```bash
    git clone https://github.com/ouomarabdessamade/Content-Based-Image-Retrieval.git
 
+## Autor
+---
+Abdessamade
