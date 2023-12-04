@@ -61,7 +61,7 @@ In this case, the user specifies the percentage of each type (color, texture, an
 
 **Image Query:**
 
-<img src="images/SearchHybridQuery.png" width="200" alt="Image Query">
+<img src="images/SearchHybridQuery.png" width="400" alt="Image Query">
 
 
 **Result:**
