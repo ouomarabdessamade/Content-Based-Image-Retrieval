@@ -54,8 +54,12 @@ The system returns the top 10 results for each method, measuring the percentage 
 
 ### Hybrid Search Result
 
-In this case, the user specifies the percentage of each type (color, texture, and shape).
+In this case, the user specifies the percentage of each type (color, texture, and shape). For example, 50% for color, 25% for texture, and 25% for shape.
 
+**Image Query:**
+![Image Query](images/SearchHybridQuery.png)
+
+**Result:**
 ![Hybrid Search](images/SearchHybrid.png)
 
 Feel free to explore and experiment with different query images and parameters for a customized image retrieval experience!
