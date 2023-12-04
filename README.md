@@ -31,7 +31,8 @@ The system returns the top 10 results for each method, measuring the percentage 
 ### Search by Color Result
 
 **Image Query:**
-![Image Query](images/SearchByColorQuery.png)
+
+<img src="images/SearchByColorQuery.jpg" width="200" alt="Image Query">
 
 **Result:**
 ![Search by Color](images/SearchByColor.png)
@@ -39,7 +40,8 @@ The system returns the top 10 results for each method, measuring the percentage 
 ### Search by Shape Result
 
 **Image Query:**
-![Image Query](images/SearchByShapeQuery.png)
+
+<img src="images/SearchByShapeQuery.jpg" width="200" alt="Image Query">
 
 **Result:**
 ![Search by Shape](images/SearchByShape.png)
@@ -47,7 +49,8 @@ The system returns the top 10 results for each method, measuring the percentage 
 ### Search by Texture Result
 
 **Image Query:**
-![Image Query](images/SearchByTextureQuery.png)
+
+<img src="images/SearchByTextureQuery.jpg" width="200" alt="Image Query">
 
 **Result:**
 ![Search by Texture](images/SearchByTexture.png)
@@ -57,7 +60,9 @@ The system returns the top 10 results for each method, measuring the percentage 
 In this case, the user specifies the percentage of each type (color, texture, and shape). For example, 50% for color, 25% for texture, and 25% for shape.
 
 **Image Query:**
-![Image Query](images/SearchHybridQuery.png)
+
+<img src="images/SearchHybridQuery.jpg" width="200" alt="Image Query">
+
 
 **Result:**
 ![Hybrid Search](images/SearchHybrid.png)
