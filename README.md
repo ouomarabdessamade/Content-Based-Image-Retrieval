@@ -3,7 +3,7 @@
 Welcome to the Content-Based Image Retrieval (CBIR) system repository! This project is designed to extract features from query images and retrieve similar ones from an image database.
 
 ## Introduction
-
+![CBIR Interface](images/userinterface.png)
 In the field of computer vision, CBIR is a powerful technique that allows users to search for images based on their content rather than relying on metadata. This repository implements various image features for an effective CBIR system.
 
 ## Part 1: Feature Extraction
