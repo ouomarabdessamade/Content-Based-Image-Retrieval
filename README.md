@@ -84,4 +84,5 @@ To use the CBIR system, follow these steps:
 
 ## Author
 --
+
 Abdessamade OUOMAR
