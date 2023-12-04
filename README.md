@@ -23,6 +23,48 @@ The system incorporates several popular image features categorized into color-ba
 1. **Haralick Texture:** Describes texture using statistical measures derived from the gray-level co-occurrence matrix.
 2. **Local Binary Pattern (LBP):** Characterizes texture patterns based on the local structure of image neighborhoods.
 
+
+## Part 2: Image Retrieval
+
+The system returns the top 10 results for each method, measuring the percentage of similarity and calculating the distance. Here are some results of the system:
+
+### Search by Color Result
+
+**Image Query:**
+![Image Query](images/SearchByColorQuery.png)
+
+**Result:**
+![Search by Color](images/SearchByColor.png)
+
+### Search by Shape Result
+
+**Image Query:**
+![Image Query](images/SearchByShapeQuery.png)
+
+**Result:**
+![Search by Shape](images/SearchByShape.png)
+
+### Search by Texture Result
+
+**Image Query:**
+![Image Query](images/SearchByTextureQuery.png)
+
+**Result:**
+![Search by Texture](images/SearchByTexture.png)
+
+### Hybrid Search Result
+
+In this case, the user specifies the percentage of each type (color, texture, and shape).
+
+![Hybrid Search](images/SearchHybrid.png)
+
+Feel free to explore and experiment with different query images and parameters for a customized image retrieval experience!
+
+If you have any questions or suggestions, please don't hesitate to open an issue or contribute to the project. Happy coding!
+
+
+
+
 ## Getting Started
 
 To use the CBIR system, follow these steps:
