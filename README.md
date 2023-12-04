@@ -82,6 +82,3 @@ To use the CBIR system, follow these steps:
    ```bash
    git clone https://github.com/ouomarabdessamade/Content-Based-Image-Retrieval.git
 
----
-
-Author: Abdessamade
