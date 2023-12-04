@@ -74,7 +74,7 @@ If you have any questions or suggestions, please don't hesitate to open an issue
 
 
 ## Getting Started
----
+--
 To use the CBIR system, follow these steps:
 
 1. Clone the repository:
